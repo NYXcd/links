@@ -1,6 +1,17 @@
 fixed-button-width: false # Set to true/false
 icon-position: left # Set to left/right
 buttons:
+
+  - category: Work
+    items:
+    - title: Resume - Placeholder
+      url: https://www.example.com
+      icon: material-symbols:file-open
+
+    - title: Portfolio
+      url: https://www.behance.net/nyxcd
+      icon: material-symbols:book-4-spark
+
   - category: Blogs
     items:
     - title: Example
