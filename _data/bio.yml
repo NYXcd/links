@@ -1,5 +1,5 @@
-- name: YouTube Shorts
-  ratio: vertical # For vertical 9:16 aspect ratio. Ideal for video thumbnails, such as those used on Instagram Reels, YouTube Shorts and TikTok. To use the default 1:1 aspect ratio (square), remove this variable.
+- name: Behance
+  # ratio: vertical # For vertical 9:16 aspect ratio. Ideal for video thumbnails, such as those used on Instagram Reels, YouTube Shorts and TikTok. To use the default 1:1 aspect ratio (square), remove this variable.
   items:
     - url: https://www.example.com
       image: https://picsum.photos/1080/920.webp
@@ -10,9 +10,9 @@
     - url: https://www.example.com
       image: https://picsum.photos/720/1280.webp
 
-- name: Instagram
+- name: Youtube
   items:
-    - url: https://www.example.com
+    - url: https://www.youtube.com/watch?v=P5xBX6dMIaY # Sacrisigil
       image: https://picsum.photos/700/400.webp # You can use paths to images in the assets folder, e.g., assets/images/insta.jpg.
 
     - url: https://www.example.org
