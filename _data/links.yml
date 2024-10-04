@@ -3,7 +3,7 @@ icon-position: left # Set to left/right
 buttons:
   - category: Work
     items:
-    - title: Resume [Placeholder]
+    - title: Resume - Placeholder
       url: https://www.example.com
       icon: material-symbols:file-open
 
