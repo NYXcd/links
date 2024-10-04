@@ -2,8 +2,8 @@
 theme: linkhub-jekyll-theme
 
 # Site Configuration
-name: Nyx Cybirdottir  # Name of your website
-tagline: Links  # Set your preferred page title
+name: Nyxcd # Name of your website
+tagline: Nyx Cybirdottir  # Set your preferred page title
 description: Interactive Designer.  # Also used as a meta description
 favicon:
   path: https://i.ibb.co/SBRmBmt/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
@@ -23,7 +23,7 @@ image:
 
 # Verified Badge Configuration
 badge:
-  enable: false # Set to 'true' or 'false' to enable / disable the badge
+  enable: true # Set to 'true' or 'false' to enable / disable the badge
   icon: ri:verified-badge-fill  # Enter the icon name for the badge from Iconify Design (https://icon-sets.iconify.design/)
   color: '#dfb221'  # Define the color of the badge
  
