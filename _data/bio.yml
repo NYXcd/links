@@ -7,9 +7,8 @@
     - url: https://www.example.org
       image: assets/Images/placeholderSquare.webp
 
-    - url: https://www.example.com
-      image: assets/Images/placeholderSquare.webp
-
+    - url: https://www.behance.net/gallery/181790405/II_Skyber-(CSGO)
+      image: assets/Images/IISkyberSquare.webp
 - name: Youtube
   items:
     - url: https://www.youtube.com/watch?v=P5xBX6dMIaY # Sacrisigil
