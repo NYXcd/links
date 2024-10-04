@@ -4,31 +4,26 @@
   color: '#0b64c0'
 
 - name: facebook
-  url: https://www.facebook.com/example
-  icon: ri:facebook-fill
-  color: '#1877F2'
+  url: https://www.facebook.com/NYXcybirdottir/
+  icon: bxl:facebook-square
+  color: '#1877F2'  
 
-- name: instagram
-  url: https://www.instagram.com/example
-  icon: ri:instagram-fill
-  color: '#E4405F'
-
-- name: x
-  url: https://x.com/example
-  icon: ri:twitter-x-fill
-  color: '#1D9BF0'
-
-- name: mastodon
-  url: https://mastodon.social/@example
-  icon: ri:mastodon-fill
-  color: '#6364FF'
-
-- name: whatsapp
-  url: https://wa.me/1XXXXXXXXXX
-  icon: ri:whatsapp-fill
-  color: '#25D366'
+- name: Discord
+  url: https://discord.gg/S4RCWUymQv 
+  icon: bxl:discord
+  color: '#5865f2'
 
 - name: youtube
-  url: https://www.youtube.com/@example
-  icon: ri:youtube-fill
+  url: https://www.youtube.com/@NYXcd
+  icon: bxl:youtube
   color: '#FF0000'
+
+- name: Behance
+  url: https://www.behance.net/nyxcd
+  icon: bxl:behance
+  color: '#0055ff'
+
+- name: GitHub
+  url: https://github.com/NYXcd
+  icon: bxl:github
+  color: '#f0f6fc'
