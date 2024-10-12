@@ -13,7 +13,7 @@
 
     - url: https://www.example.com
       image: assets/Images/placeholderSquare.webp
-      - name: Itch.io
+- name: Itch.io
   items:
     - url: https://www.youtube.com/watch?v=P5xBX6dMIaY # Sacrisigil
       image: assets/Images/placeholderSquare.webp # You can use paths to images in the assets folder, e.g., assets/images/insta.jpg.
