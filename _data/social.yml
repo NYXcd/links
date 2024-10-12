@@ -27,3 +27,8 @@
   url: https://github.com/NYXcd
   icon: bxl:github
   color: '#f0f6fc'
+
+- name: Itch.io
+  url: https://nyxcd.itch.io/
+  icon: cib:itch-io
+  color: '#ff244a'
