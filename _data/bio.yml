@@ -4,8 +4,12 @@
     - url: https://www.behance.net/gallery/210043503/Sacrisigil-UE5-Game-Design
       image: assets/Images/Sacrisigil-Thumb-Square.webp
 
+    - url: https://www.behance.net/gallery/210043625/Paradox-Alpha-UE5-Level-Design
+      image: assets/Images/ParadoxSquare.webp
+      
     - url: https://www.behance.net/gallery/181790405/II_Skyber-(CSGO)
-      image: assets/Images/IISkyberSquare.webp
+    image: assets/Images/IISkyberSquare.webp
+
 - name: Youtube
   items:
     - url: https://www.youtube.com/watch?v=P5xBX6dMIaY # Sacrisigil
