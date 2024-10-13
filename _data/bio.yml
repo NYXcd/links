@@ -8,7 +8,7 @@
       image: assets/Images/ParadoxSquare.webp
       
     - url: https://www.behance.net/gallery/181790405/II_Skyber-(CSGO)
-    image: assets/Images/IISkyberSquare.webp
+      image: assets/Images/IISkyberSquare.webp
 
 - name: Youtube
   items:
