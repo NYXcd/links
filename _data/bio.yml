@@ -17,10 +17,13 @@
 
     - url: https://www.example.com
       image: assets/Images/placeholderSquare.webp
-- name: Itch.io
+- name: Games
   items:
     - url: https://andromedamusic.itch.io/gravity # Gravity
       image: assets/Images/GravitySquare.webp 
 
     - url: https://www.example.com
       image: assets/Images/placeholderSquare.webp
+
+    - url: https://steamcommunity.com/sharedfiles/filedetails/?id=3032147625 # II Skyber
+      image: assets/Images/IISkyberSquare.webp
