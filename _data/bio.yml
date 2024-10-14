@@ -1,26 +1,26 @@
 - name: Behance
   # ratio: vertical # For vertical 9:16 aspect ratio. Ideal for video thumbnails, such as those used on Instagram Reels, YouTube Shorts and TikTok. To use the default 1:1 aspect ratio (square), remove this variable.
   items:
-    - url: https://www.behance.net/gallery/210043503/Sacrisigil-UE5-Game-Design
+    - url: https://www.behance.net/gallery/210043503/Sacrisigil-UE5-Game-Design # Sacrisigil
       image: assets/Images/Sacrisigil-Thumb-Square.webp
 
-    - url: https://www.behance.net/gallery/210043625/Paradox-Alpha-UE5-Level-Design
+    - url: https://www.behance.net/gallery/210043625/Paradox-Alpha-UE5-Level-Design # Paradox
       image: assets/Images/ParadoxSquare.webp
       
-    - url: https://www.behance.net/gallery/181790405/II_Skyber-(CSGO)
+    - url: https://www.behance.net/gallery/181790405/II_Skyber-(CSGO) #II Skyber
       image: assets/Images/IISkyberSquare.webp
 
 - name: Youtube
   items:
     - url: https://www.youtube.com/watch?v=P5xBX6dMIaY # Sacrisigil
-      image: assets/Images/Sacrisigil-Thumb-Square.webp # You can use paths to images in the assets folder, e.g., assets/images/insta.jpg.
+      image: assets/Images/Sacrisigil-Thumb-Square.webp # e.g. assets/images/insta.jpg.
 
     - url: https://www.example.com
       image: assets/Images/placeholderSquare.webp
 - name: Itch.io
   items:
-    - url: https://www.youtube.com/watch?v=P5xBX6dMIaY # Sacrisigil
-      image: assets/Images/placeholderSquare.webp # You can use paths to images in the assets folder, e.g., assets/images/insta.jpg.
+    - url: https://andromedamusic.itch.io/gravity # Gravity
+      image: assets/Images/GravitySquare.webp 
 
     - url: https://www.example.com
       image: assets/Images/placeholderSquare.webp
