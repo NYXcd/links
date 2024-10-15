@@ -36,4 +36,4 @@
 - name: Drive
   url: https://drive.google.com/drive/folders/1tCHf471v3-hXGy-OL8vwFEu-lmuVU-K6?usp=sharing
   icon: fa6-brands:google-drive #font awesome brands
-  color: '#ff244a'
+  color: '#f0f6fc'
