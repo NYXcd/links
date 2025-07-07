@@ -6,7 +6,7 @@ name: Nyx Cybirdottir # Name of your website
 tagline: NYXcd  # Set your preferred page title
 description: Interactive Designer  # Also used as a meta description
 favicon:
-  path: assets/images/favicon/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
+  path: assets/siteimages/favicon/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: png # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
 logo: assets/siteimages/id/Profile-lq.jpg # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://link.example.com # URL of your website
