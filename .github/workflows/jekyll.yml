@@ -49,10 +49,10 @@ jobs:
           JEKYLL_ENV: production
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3 #originally set to: actions/upload-artifact@v4 #jekyll worklow wants v3, but it is deprecated.
-        with:
-          overwrite: true
-          path: ./_site #required by v4
+        uses: actions/upload-pages-artifact@v3 #FIXED THE NO ARTIFACTS NAMED "github-pages" ISSSUE - originally set to: actions/upload-artifact@v4 #jekyll worklow wants v3, but it is deprecated.
+        # with:
+        #   overwrite: true
+        #   path: ./_site #required by v4
 
   # Deployment job
   deploy:
