@@ -4,8 +4,8 @@ buttons:
 
   - category: Work
     items:
-    - title: Resume - Placeholder
-      url: https://www.example.com
+    - title: Resume
+      url: https://drive.google.com/file/d/1l1LrMSHx_z629DHdM1qB-1lgi_48GgBC/view
       icon: material-symbols:file-open
 
     - title: Portfolio
