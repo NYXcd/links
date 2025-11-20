@@ -23,10 +23,10 @@
 #   icon: bxl:behance
 #   color: '#0055ff'
 
-- name: GitHub
-  url: https://github.com/NYXcd
-  icon: bxl:github
-  color: '#f0f6fc'
+# - name: GitHub
+#   url: https://github.com/NYXcd
+#   icon: bxl:github
+#   color: '#f0f6fc'
 
 - name: Itch.io
   url: https://nyxcd.itch.io/
