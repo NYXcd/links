@@ -8,6 +8,11 @@
   icon: bxl:youtube
   color: '#FF0000'
 
+- name: Behance
+  url: https://www.behance.net/nyxcd
+  icon: bxl:behance
+  color: '#0055ff'
+
 - name: LinkedIn
   url: https://www.linkedin.com/in/nyxcd/
   icon: bxl:linkedin-square
@@ -22,11 +27,6 @@
 #   url: https://discord.gg/S4RCWUymQv 
 #   icon: bxl:discord
 #   color: '#5865f2'
-
-# - name: Behance
-#   url: https://www.behance.net/nyxcd
-#   icon: bxl:behance
-#   color: '#0055ff'
 
 # - name: GitHub
 #   url: https://github.com/NYXcd
