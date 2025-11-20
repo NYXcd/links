@@ -13,6 +13,11 @@
   icon: bxl:behance
   color: '#0055ff'
 
+- name: Bandcamp
+  url: https://nyxcd.bandcamp.com/
+  icon: fa7-brands:bandcamp
+  color: '#0cacd7'
+
 - name: LinkedIn
   url: https://www.linkedin.com/in/nyxcd/
   icon: bxl:linkedin-square
