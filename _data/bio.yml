@@ -12,8 +12,8 @@
 
 - name: Youtube
   items:
-    - url: https://www.youtube.com/watch?v=P5xBX6dMIaY # Sacrisigil
-      image: assets/Images/Sacrisigil-Thumb-Square.webp # e.g. assets/images/insta.jpg.
+    - url: https://youtu.be/Cdki-15ZQZM # Orbit
+      image: assets/Images/Thumb_Orbit.webp 
 
     - url: https://youtu.be/LbsiLLNPESw?si=F2TR2mXtDeGWxvpQ # Paradox
       image: assets/Images/ParadoxSquareYT.webp
@@ -25,10 +25,10 @@
     - url: https://andromedamusic.itch.io/gravity # Gravity
       image: assets/Images/GravitySquare.webp 
 
-    - url: https://drive.google.com/drive/folders/1wqhT5zvNVpYrdhwcb-qKbTIvl26ZNidg?usp=drive_link #Sacrisigil 
-      image: assets/Images/Sacrisigil-Thumb-Square.webp
+    - url: https://nyxcd.itch.io/sacrisigil-2 # Sacrisigil 2
+      image: assets/Images/Thumb_Sacrisigil2.webp
 
-    - url: https://drive.google.com/drive/folders/1wgLMJxcSsuqlZ8Vdp4LxM41rkzSLqPAB?usp=drive_link #Paradox
-      image: assets/Images/ParadoxSquareYT.webp
+    - url: https://nyxcd.itch.io/angel-cleaver # Angel Cleaver
+      image: assets/Images/Thumb_AngelCleaver.webp
 
 # https://steamcommunity.com/sharedfiles/filedetails/?id=3032147625 # II Skyber
