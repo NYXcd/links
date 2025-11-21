@@ -13,24 +13,24 @@
 
 - name: Games
   items:
-    - url: https://andromedamusic.itch.io/gravity # Gravity
-      image: assets/Images/GravitySquare.webp 
-
-    - url: https://nyxcd.itch.io/sacrisigil-2 # Sacrisigil 2
-      image: assets/Images/Thumb_Sacrisigil2.webp
-
     - url: https://nyxcd.itch.io/angel-cleaver # Angel Cleaver
       image: assets/Images/Thumb_AngelCleaver.webp
 
-- name: Youtube
+    - url: https://nyxcd.itch.io/sacrisigil-2 # Sacrisigil 2
+      image: assets/Images/Thumb_Sacrisigil2.webp
+    
+    - url: https://andromedamusic.itch.io/gravity # Gravity
+      image: assets/Images/GravitySquare.webp 
+
+- name: YouTube
   items:
-    - url: https://youtu.be/Cdki-15ZQZM # Orbit
-      image: assets/Images/Thumb_Orbit.webp 
+    - url: https://youtu.be/1bW4X54risY # Showreel
+      image: assets/Images/SquarePanelTopGraphics.webp
 
     - url: https://youtu.be/LbsiLLNPESw?si=F2TR2mXtDeGWxvpQ # Paradox
       image: assets/Images/ParadoxSquareYT.webp
 
-    - url: https://youtu.be/1bW4X54risY # Showreel
-      image: assets/Images/SquarePanelTopGraphics.webp
+    - url: https://youtu.be/Cdki-15ZQZM # Orbit
+      image: assets/Images/Thumb_Orbit.webp 
 
 # https://steamcommunity.com/sharedfiles/filedetails/?id=3032147625 # II Skyber
