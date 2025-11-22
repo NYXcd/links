@@ -2,10 +2,10 @@ fixed-button-width: false # Set to true/false
 icon-position: left # Set to left/right
 buttons:
 
-  - category: Work
+  - category: Resume
     items:
-    - title: Resume
-      url: https://drive.google.com/file/d/1l1LrMSHx_z629DHdM1qB-1lgi_48GgBC/view
+    - title: Google Drive Download
+      url: https://drive.google.com/file/d/1bhfSq-hqTYIJA_WX1b26eueMN3cGzzdI/view?usp=sharing
       icon: material-symbols:file-open
 
     # - title: Portfolio
