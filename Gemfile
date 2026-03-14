@@ -4,4 +4,7 @@ source "https://rubygems.org"
 gemspec
 
 gem "bundler"
-# gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem "bigdecimal"
+gem "logger"
+gem "csv"
