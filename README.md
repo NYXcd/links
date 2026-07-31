@@ -1,8 +1,8 @@
-Links_V2 | Static GitHub Pages Website  
+Links_V2 | [Static GitHub Pages Website](https://nyxcd.github.io/links/)  
 
 A static site exported from WordPress using LocalWP and the SimplyStatic plugin, following a similar workflow to [Fast Free Static Website with WordPress and GitHub Pages](https://www.hywel.me/static/site/wordpress/2016/07/17/fast-free-static-website-with-wordpress-and-github-pages.html)
 
-This solution minimizes 
+This workflow minimizes 
 - tech dept
 - learning curves
 - hosting cost
