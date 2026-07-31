@@ -15,3 +15,5 @@ This workflow makes a simple website with clean formatting accessible.
 Future iterations will include
 - Improved SEO
 - Additional pages
+
+This project originally used [Digitalmalayali's Linkhub Theme](https://github.com/digitalmalayali/linkhub-jekyll-theme) But moved to the WordPress workflow after GitHub actions were updated.
